@@ -9,8 +9,4 @@ assignees: ''
 
 ## Description
 
-The purpose of this issue is... 
-
-## Acceptance Criteria
-
-- [ ] This should be done
+The purpose of this issue is...
