@@ -33,7 +33,7 @@ This project is led by [Luis Gustavo]()
 
 # Usage
 
-If you are interested in using this project just fork you clone this repository.
+If you are interested in using this project just fork or clone this repository.
 
 ## Technologies
 
