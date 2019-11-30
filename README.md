@@ -16,7 +16,7 @@ Reliable estimates for American ASL users range from 250.000 to 500.000 persons,
 
 ## Solution
 
-The purpose of this project is to build a tool that will correctly predict the digit from an image, this tool can be used in a iOS device. The tool should be able to predict the digit independently of the skin or the background color.
+The purpose of this project is to build a tool that will correctly predict the digit from an image, this tool can be used on an iOS device. The tool should be able to predict the digit independently of skin or background color.
 
 ## Who will benefit from this project ?
 
