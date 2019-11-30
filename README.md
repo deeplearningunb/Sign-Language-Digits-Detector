@@ -37,7 +37,7 @@ If you are interested in using this project just fork you clone this repository.
 
 ## Technologies
 
-The neural network is build and trained using [Anaconda](https://www.anaconda.com/) and [Python3](https://www.python.org/downloads/).
+The neural network is built and trained using [Tensorflow](https://www.tensorflow.org/) and [Python3](https://www.python.org/downloads/).
 
   The iOS app is built using [Xcode 11](https://developer.apple.com/xcode/) and [iOS 11+](https://www.apple.com/br/ios/ios-13/).
 
